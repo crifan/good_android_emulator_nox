@@ -1,0 +1,19 @@
+{
+  "title": "好用的安卓模拟器：夜神Nox",
+  "description": "介绍一款好用的安卓模拟器：夜神Nox。可以用来配合安卓破解和app抓包、玩手游等用途。包括如何安装，Mac平台中如何下载和安装。如何使用，其中通用的知识，包括共享目录、导出文件、设置代理、安装安卓apk文件、root超级用户等，以及Mac中的安装XPosed框架、XPosed中安装JustTrustMe插件、安装Charles证书、配合FDex2导出dex文件；以及使用心得，包括偶尔会启动失败、CPU占用率太高、无法登录最新版微信、Mac版无多开功能等。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "good_android_emulator_nox"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/good_android_emulator_nox/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/good_android_emulator_nox/pdf/good_android_emulator_nox.pdf"
+    }
+  }
+}
