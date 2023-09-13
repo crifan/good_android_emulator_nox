@@ -2,9 +2,15 @@
 
 Nox中自带，或者说很容易，可以开启：`超级用户`=`root`的权限。
 
-比如在后续[安装XPosed框架 · 好用的安卓模拟器：夜神Nox](https://book.crifan.com/books/good_android_emulator_nox/website/usage/mac/install_xposed.html)之后，可以去：
+在 [安装XPosed框架](../../usage/mac/install_xposed.md) 之后，先去Nox的设置中开启root：
 
-`设置` ->`系统`->`超级用户`->`允许`：
+`Nox`->`系统设置`->`基础设置`->`开启root`
+
+![nox_settings_basic_enable_root](../../assets/img/nox_settings_basic_enable_root.png)
+
+再去：
+
+`安卓系统`->`设置` ->`系统`->`超级用户`->`允许`：
 
 ![nox_got_root_auth](../../assets/img/nox_got_root_auth.png)
 

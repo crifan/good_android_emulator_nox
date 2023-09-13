@@ -45,4 +45,6 @@
 * [夜神模拟器如何共享文件到电脑中 - u014693509的博客 - CSDN博客](https://blog.csdn.net/u014693509/article/details/82414926)
 * [模拟器与电脑文件互传教程2_夜神安卓模拟器新手帮助页](https://www.yeshen.com/faqs/Hyh7MLdJb)
 * [Mac版模拟器可能无法启动（卡99%）的原因及解决方式 - Mac模拟器 夜神游戏论坛](https://bbs.yeshen.com/forum.php?mod=viewthread&tid=8566)
+* [Root开关功能_夜神安卓模拟器新手帮助页 (yeshen.com)](https://www.yeshen.com/faqs/rJSc2SOJb)
+* [【新手指导】Root开关功能_夜神模拟器电脑版 (yeshen.com)](https://www.yeshen.com/blog/root/)
 * 
