@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/good_android_emulator_nox/website/"
+      "prefix": "https://book.crifan.org/books/good_android_emulator_nox/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/good_android_emulator_nox/pdf/good_android_emulator_nox.pdf"
+      "url": "https://book.crifan.org/books/good_android_emulator_nox/pdf/good_android_emulator_nox.pdf"
     }
   }
 }

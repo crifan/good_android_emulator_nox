@@ -37,6 +37,6 @@
 
 ## FDex2
 
-过程类似，详见：
+详见：
 
-* 【已解决】mac中试用FDex2去hook导出安卓app的dex等文件
+[FDex2 · Android逆向：静态分析](https://book.crifan.org/books/android_re_static_analysis/website/by_file_type/for_dex/crack_export_dex/crack_tool/fdex2/)
