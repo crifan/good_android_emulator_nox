@@ -1,6 +1,6 @@
 # 安装XPosed框架
 
-此处介绍Mac中在夜神Nox中安装[XPosed框架](https://book.crifan.com/books/crack_assistant_xposed_framework/website/)
+此处介绍Mac中在夜神Nox中安装[XPosed框架](https://book.crifan.org/books/android_re_xposed_framework/website/)
 
 此处Nox的Android版本是：`4.4.2`
 

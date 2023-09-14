@@ -15,7 +15,7 @@ https://github.com/Fuzion24/JustTrustMe/releases/tag/v.2
 
 然后安装到Nox中。
 
-具体过程详见：[安装app · 好用的安卓模拟器：夜神Nox](https://book.crifan.com/books/good_android_emulator_nox/website/usage/common/install_app.html)
+具体过程详见：[安装app · 好用的安卓模拟器：夜神Nox](https://book.crifan.org/books/good_android_emulator_nox/website/usage/common/install_app.html)
 
 进入Xposed中的模块，可以看到：`JustTrustMe`
 
